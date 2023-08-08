@@ -3,4 +3,4 @@
 It is very simple code but it does the job efficiently-
 Did this for Y10 Computing/Algorithmics as a side project
 # MUST DOWNLOAD googletrans version 3.1.0a0(use pip install googletrans == 3.1.0a0)
-# Also need TKINTER (pip install tkinter
+# Also need tkinter obviously - use (pip install tkinter)
