@@ -1,4 +1,4 @@
-from tkinter import *#wildcard cause its a lot of code
+from tkinter import *#wildcard
 from tkinter import ttk
 from googletrans import Translator, LANGUAGES
 #Very tricky terminology- i had to install a special experimental version of googletrans(3.1.0a0) in order to run this code in tkinter
